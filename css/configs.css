@@ -278,7 +278,7 @@ header::before {
     visibility: hidden;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 520px) {
     .back-button {
         margin-left: -2%;
     }
